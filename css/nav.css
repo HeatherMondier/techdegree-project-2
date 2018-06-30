@@ -69,11 +69,6 @@
   .nav a {
     border-bottom-color: transparent;
   }
-  .skills {
-    margin: 2em;
-    border-radius: 10px;
-    border: 3px double grey;
-  }
   .main-footer,
   .footernav {
     display: flex;

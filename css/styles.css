@@ -72,8 +72,12 @@ img {
 	text-align: center;
 }
 
+.skills {
+	border-radius: 10px;
+	border: 3px double grey;
+}
 .skillslist {
-		padding: 1em 1em;	
+		padding: 1em 1em;
 }
 .skillslist li {
 	display: inline-block;
@@ -98,7 +102,7 @@ img {
 ==================================== */
 @media (min-width: 768px) {
 	.container {
-		width: 90%;
+		/* width: 90%; */
 		margin: 0 auto;
 	}
 	.headline {
