@@ -74,6 +74,11 @@ img {
 	padding-left: 1em;
 }
 
+.col img {
+	display: block;
+	margin: 0 auto;
+}
+
 .contact {
 	padding: 0;
 	text-align: center;
